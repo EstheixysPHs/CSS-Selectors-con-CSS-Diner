@@ -44,3 +44,5 @@ Tarea de Prog. Web
 ## Selector de valor de atributo: 
   Descripción: Selecciona todos los elementos que tienen un valor de atributo específico.
   Ejemplo: [type="email"] selecciona todos los elementos con un atributo type igual a "email".
+  ![Capta](captura1.jpg)
+  ![Capta]( Captura2.jpg)
